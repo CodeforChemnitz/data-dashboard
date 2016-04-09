@@ -1,10 +1,10 @@
 {
 "location":{
 	"country":"Germany",
-	"city":"Berlin"
+	"city":"Köln"
 },
 "portal":{
-	"url":"http://codefor.berlin",
+	"url":"http://codefor.de/koeln/",
 	"title":"Code for Germany, OK Lab Köln",
 	"description":"Willkommen beim OK Lab Köln! Wir arbeiten in verschiedenen Gruppen an Projekten rund um Open Data und Civic Tech. Wir kommen aus ganz verschiedenen Bereichen, entsprechend behandeln auch die Projekte an denen wir arbeiten ganz unterschiedliche Themen.",
 	"license":"",
@@ -26,7 +26,7 @@
 	"cssClass":""
 },
 "back":{
-	"text":"Diese Grafik entstand bei Code for Berlin, der ehrenamtlichen Daten-Community.",
+	"text":"Diese Grafik entstand bei Code for Germany, der ehrenamtlichen Daten-Community.",
 	"background":"",
 	"color":"#000000",
 	"cssClass":""
