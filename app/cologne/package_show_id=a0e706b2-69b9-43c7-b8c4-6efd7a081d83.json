@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Austria",
+		"city": "Wien"
+	},
+	"portal": {
+		"url": "http://www.offenedaten-koeln.de/api/3/action/package_show?id=a0e706b2-69b9-43c7-b8c4-6efd7a081d83",
+		"title": "",
+		"description": "",
+		"license": "Creative Commons Namensnennung Lizenz",
+		"licenseURL": "http://creativecommons.org/licenses/by/3.0/de/",
+		"attribution": "",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "Zählstellen Kölner",
+		"textBottom": "2015",
+		"value": "Radverkehr",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/bicycle.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Dieser Datensatz beinhaltet die Erhebungen der automatischen Zählstellen des Kölner Radverkehrs für das Jahr 2015.",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}

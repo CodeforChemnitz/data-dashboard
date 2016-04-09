@@ -1,0 +1,19 @@
+{
+	"meta": {
+		"mail": "codeforcologne@gmail.com",
+		"twitter": "https://twitter.com/codeforcologne/",
+		"github": "https://github.com/codeforcologne/data-dashboard",
+		"showMenuCity": true,
+		"background": "cologne/cologne.jpg"
+	},
+	"data": {
+		"ckan": "http://offenedaten-koeln.de/api/3/action/current_package_list_with_resources"
+	},
+	"cards": [
+		"cologne/cologne-opendata.json",
+		"cologne/code-for-cologne.json",
+		"cologne/help.json",
+		"cologne/package_show_id=a0e706b2-69b9-43c7-b8c4-6efd7a081d83.json"
+
+	]
+}
