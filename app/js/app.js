@@ -273,7 +273,10 @@ function loadCards() {
 	if ((typeof cityConfig.cards !== 'undefined') && (config.loaded < cityConfig.cards.length)) {
 		var url = cityConfig.cards[config.loaded];
 		$.ajax(url)
-			.done(function (json) {
+			.done(function (data) {
+				if (typeof data === 'string') {
+					data = $.parseJSON(data);
+				}
 				var data = $.parseJSON(json);
 				createCard(data);
 			})
@@ -495,10 +498,11 @@ function installCity(callbackFunc) {
 
 	url += '/cityConfig.json';
 	$.ajax(url)
-		.done(function (json) {
-			console.log(JSON.stringify(json));
-//			var data = $.parseJSON(json);
-			cityConfig = json;
+		.done(function (data) {
+			if (typeof data === 'string') {
+				data = $.parseJSON(data);
+			}
+			cityConfig = data;
 		})
 		.fail(function (jqXHR, textStatus) {
 			if ('parsererror' === textStatus) {
