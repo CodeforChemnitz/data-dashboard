@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Austria",
+		"city": "Wien"
+	},
+	"portal": {
+		"url": "http://www.offenedaten-koeln.de/api/3/action/package_show?id=4cf54f9f-b1f9-4157-8aba-9ac21ceabfc6",
+		"title": "",
+		"description": "",
+		"license": "Creative Commons Namensnennung Lizenz",
+		"licenseURL": "http://creativecommons.org/licenses/by/3.0/de/",
+		"attribution": "",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "Stadtbild",
+		"textBottom": "Köln",
+		"value": "\"Sag's uns\"",
+		"unit": "",
+		"changePerDay": "100",
+		"format": "string",
+		"background": "img/phone.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Über \"Sag’s uns\" können Sie die Stadtverwaltung über Probleme im Kölner Stadtbild informieren.",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}
