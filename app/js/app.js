@@ -496,6 +496,7 @@ function installCity(callbackFunc) {
 	url += '/cityConfig.json';
 	$.ajax(url)
 		.done(function (json) {
+			console.log(JSON.stringify(json));
 			var data = $.parseJSON(json);
 			cityConfig = data;
 		})
