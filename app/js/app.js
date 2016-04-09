@@ -497,8 +497,8 @@ function installCity(callbackFunc) {
 	$.ajax(url)
 		.done(function (json) {
 			console.log(JSON.stringify(json));
-			var data = $.parseJSON(json);
-			cityConfig = data;
+//			var data = $.parseJSON(json);
+			cityConfig = json;
 		})
 		.fail(function (jqXHR, textStatus) {
 			if ('parsererror' === textStatus) {
