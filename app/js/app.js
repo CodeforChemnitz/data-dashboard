@@ -277,7 +277,6 @@ function loadCards() {
 				if (typeof data === 'string') {
 					data = $.parseJSON(data);
 				}
-				var data = $.parseJSON(json);
 				createCard(data);
 			})
 			.fail(function (jqXHR, textStatus) {
