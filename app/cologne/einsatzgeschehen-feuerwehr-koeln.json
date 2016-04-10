@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Köln"
+	},
+	"portal": {
+		"url": "http://www.offenedaten-koeln.de/dataset/cf43ad61-c3e5-4503-ab73-ae0db24baa8c/resource/cf43ad61-c3e5-4503-ab73-ae0db24baa8c",
+		"title": "",
+		"description": "",
+		"license": "",
+		"licenseURL": "",
+		"attribution": "",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "Einsatzgeschehen",
+		"textBottom": "Feuerwehr Köln",
+		"value": "133.593",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/fire.svg",
+		"color": "#c83737"
+	},
+	"back": {
+		"text": "133.593 Einsätze 2014 Feuerwehr, Rettungsdienst und Hilfsorganisationen.",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}

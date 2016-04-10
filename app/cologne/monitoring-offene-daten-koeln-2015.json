@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Köln"
+	},
+	"portal": {
+		"url": "http://www.offenedaten-koeln.de/dataset/monitoring-offene-daten-koeln-2015",
+		"title": "",
+		"description": "",
+		"license": "",
+		"licenseURL": "",
+		"attribution": "",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "Monitoring Offene Daten",
+		"textBottom": "Seitenaufrufe pro Tag",
+		"value": "450",
+		"unit": "",
+		"changePerDay": "450",
+		"format": "string",
+		"background": "img/data.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Seitenaufrufe pro Tag: Durchschnitt 2015",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Köln"
+	},
+	"portal": {
+		"url": "http://www.offenedaten-koeln.de/dataset/sags-uns-anliegenmanagement-koeln",
+		"title": "",
+		"description": "",
+		"license": "",
+		"licenseURL": "",
+		"attribution": "",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "Anliegenmanagement",
+		"textBottom": "Köln",
+		"value": "Sags Uns",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/phone.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Über \"Sag’s uns\" können Bürger die Stadtverwaltung über Probleme im Kölner Stadtbild informieren.",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}
