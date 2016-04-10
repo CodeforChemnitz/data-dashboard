@@ -1,10 +1,10 @@
 {
 	"location": {
-		"country": "Austria",
-		"city": "Wien"
+		"country": "Germany",
+		"city": "Köln"
 	},
 	"portal": {
-		"url": "http://www.offenedaten-koeln.de/api/3/action/package_show?id=a0e706b2-69b9-43c7-b8c4-6efd7a081d83",
+		"url": "http://www.offenedaten-koeln.de/dataset/gruenflaechenkataster-koeln-flaechentypen",
 		"title": "",
 		"description": "",
 		"license": "Creative Commons Namensnennung Lizenz",
@@ -15,17 +15,17 @@
 		"updated": ""
 	},
 	"front": {
-		"textTop": "Zählstellen Kölner",
-		"textBottom": "2015",
-		"value": "Radverkehr",
+		"textTop": "Grünflächenkataster Köln",
+		"textBottom": "Flächen",
+		"value": "Grün",
 		"unit": "",
 		"changePerDay": "",
 		"format": "string",
-		"background": "img/bicycle.svg",
+		"background": "img/tree.svg",
 		"color": "#ffffff"
 	},
 	"back": {
-		"text": "Dieser Datensatz beinhaltet die Erhebungen der automatischen Zählstellen des Kölner Radverkehrs für das Jahr 2015.",
+		"text": "Biotopflächen - Forsteigene Flächen - Friedhöfe - Grünanlagen - Kleingärten - Spielplätze",
 		"color": "#000000",
 		"cssClass": ""
 	}

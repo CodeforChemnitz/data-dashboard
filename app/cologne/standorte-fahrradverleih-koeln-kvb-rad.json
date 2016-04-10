@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Köln"
+	},
+	"portal": {
+		"url": "http://www.offenedaten-koeln.de/dataset/standorte-fahrradverleih-koeln-kvb-rad",
+		"title": "",
+		"description": "",
+		"license": "",
+		"licenseURL": "",
+		"attribution": "",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "Standorte",
+		"textBottom": "Fahrradverleih Koeln",
+		"value": "KVB-Rad",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/bicycle.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "aktuellen Standorte der abgestellten Fahrräder im Stadtgebiet Köln",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}
