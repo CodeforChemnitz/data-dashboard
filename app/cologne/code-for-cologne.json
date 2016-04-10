@@ -21,12 +21,12 @@
 	"unit":"",
 	"changePerDay":0,
 	"format":"",
-	"background":"img/codeforberlin.svg",
+	"background":"img/codeforcologne.svg",
 	"color":"",
 	"cssClass":""
 },
 "back":{
-	"text":"Diese Grafik entstand bei Code for Germany, der ehrenamtlichen Daten-Community.",
+	"text":"Diese Grafik entstand bei Code for Berlin, der ehrenamtlichen Daten-Community.",
 	"background":"",
 	"color":"#000000",
 	"cssClass":""
