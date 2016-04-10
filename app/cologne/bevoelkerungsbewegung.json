@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Köln"
+	},
+	"portal": {
+		"url": "http://www.offenedaten-koeln.de/dataset/bev%C3%B6lkerungsbewegung",
+		"title": "",
+		"description": "",
+		"license": "",
+		"licenseURL": "",
+		"attribution": "",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "51011",
+		"textBottom": "aus Köln 2012",
+		"value": "Fortzüge",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/refugees.svg",
+		"color": "#fecb32"
+	},
+	"back": {
+		"text": "Einwohner-Bewegungsdaten nach den Kriterien \"Aussen- und Binnenwanderung\" und \"Natürliche Bewegung\"",
+		"color": "#000000",
+		"cssClass": "refugees"
+	}
+}

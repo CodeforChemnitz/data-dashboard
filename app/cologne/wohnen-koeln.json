@@ -4,7 +4,7 @@
 		"city": "Köln"
 	},
 	"portal": {
-		"url": "http://www.offenedaten-koeln.de/dataset/8ea02fcd-7b32-4557-8b92-764df6f9edb8/resource/8ea02fcd-7b32-4557-8b92-764df6f9edb8",
+		"url": "http://www.offenedaten-koeln.de/dataset/wohnen-koeln",
 		"title": "",
 		"description": "",
 		"license": "",
@@ -15,17 +15,17 @@
 		"updated": ""
 	},
 	"front": {
-		"textTop": "Köln hat",
-		"textBottom": "Sirenenstandorte",
-		"value": "83",
+		"textTop": "550428",
+		"textBottom": "Köln",
+		"value": "Wohnung",
 		"unit": "",
 		"changePerDay": "",
 		"format": "string",
-		"background": "img/map.svg",
-		"color": "#c83737"
+		"background": "img/family.svg",
+		"color": "#ffffff"
 	},
 	"back": {
-		"text": "Übersicht der Sirenen in Köln, Stand 21.10.2014",
+		"text": "Die Zahl der Menschen mit Hauptwohnsitz in Köln steigt. 2014 standen ihnen 550426 Wohungen zur Verfügung.",
 		"color": "#000000",
 		"cssClass": ""
 	}

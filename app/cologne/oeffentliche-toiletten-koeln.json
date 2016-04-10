@@ -4,7 +4,7 @@
 		"city": "Köln"
 	},
 	"portal": {
-		"url": "http://www.offenedaten-koeln.de/dataset/4bab19f6-726b-4cc6-8284-f81ec45c61b2/resource/4bab19f6-726b-4cc6-8284-f81ec45c61b2",
+		"url": "http://www.offenedaten-koeln.de/dataset/oeffentliche-toiletten-koeln",
 		"title": "",
 		"description": "",
 		"license": "",
@@ -15,17 +15,17 @@
 		"updated": ""
 	},
 	"front": {
-		"textTop": "9544",
-		"textBottom": "Köln",
-		"value": "Denkmal",
+		"textTop": "Es gibt",
+		"textBottom": "Öffentliche Toiletten",
+		"value": "84",
 		"unit": "",
-		"changePerDay": "",
+		"changePerDay": "Köln",
 		"format": "string",
-		"background": "img/house.svg",
+		"background": "img/gender.svg",
 		"color": "#ffffff"
 	},
 	"back": {
-		"text": "Vollständige Liste der Denkmäler in Köln mit dem Stand vom 22.05.2015",
+		"text": "Sie suchen eine barrierefreie Toilette oder eine Toilette mit Babywickeltisch?",
 		"color": "#000000",
 		"cssClass": ""
 	}

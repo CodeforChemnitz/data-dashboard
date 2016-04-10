@@ -4,7 +4,7 @@
 		"city": "Köln"
 	},
 	"portal": {
-		"url": "http://www.offenedaten-koeln.de/dataset/8ea02fcd-7b32-4557-8b92-764df6f9edb8/resource/8ea02fcd-7b32-4557-8b92-764df6f9edb8",
+		"url": "http://www.offenedaten-koeln.de/dataset/wochenmaerkte-koeln",
 		"title": "",
 		"description": "",
 		"license": "",
@@ -15,17 +15,17 @@
 		"updated": ""
 	},
 	"front": {
-		"textTop": "Köln hat",
-		"textBottom": "Sirenenstandorte",
-		"value": "83",
+		"textTop": "Wochenmärkte",
+		"textBottom": "Köln",
+		"value": "Marktplatz",
 		"unit": "",
 		"changePerDay": "",
 		"format": "string",
-		"background": "img/map.svg",
-		"color": "#c83737"
+		"background": "img/market.svg",
+		"color": "#ffffff"
 	},
 	"back": {
-		"text": "Übersicht der Sirenen in Köln, Stand 21.10.2014",
+		"text": "Verzeichnis der Kölner Wochenmärkte.",
 		"color": "#000000",
 		"cssClass": ""
 	}

@@ -4,7 +4,7 @@
 		"city": "Köln"
 	},
 	"portal": {
-		"url": "http://www.offenedaten-koeln.de/dataset/8ea02fcd-7b32-4557-8b92-764df6f9edb8/resource/8ea02fcd-7b32-4557-8b92-764df6f9edb8",
+		"url": "http://www.offenedaten-koeln.de/dataset/c7f3093a-fde8-440e-b5b6-7bf2fa644290/resource/c7f3093a-fde8-440e-b5b6-7bf2fa644290",
 		"title": "",
 		"description": "",
 		"license": "",
@@ -15,17 +15,17 @@
 		"updated": ""
 	},
 	"front": {
-		"textTop": "Köln hat",
-		"textBottom": "Sirenenstandorte",
-		"value": "83",
+		"textTop": "Vornamen",
+		"textBottom": "338 in 2015",
+		"value": "Marie",
 		"unit": "",
 		"changePerDay": "",
 		"format": "string",
-		"background": "img/map.svg",
-		"color": "#c83737"
+		"background": "img/book.svg",
+		"color": "#57006c"
 	},
 	"back": {
-		"text": "Übersicht der Sirenen in Köln, Stand 21.10.2014",
+		"text": "Vornamen (inklusive Anzahl der vergebenen Vornamen) für das Jahr 2015",
 		"color": "#000000",
 		"cssClass": ""
 	}
