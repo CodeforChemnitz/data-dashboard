@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Köln"
+	},
+	"portal": {
+		"url": "http://www.offenedaten-koeln.de/dataset/b6bb9aaf-73a2-4509-9055-5a9c005f3e20/resource/b6bb9aaf-73a2-4509-9055-5a9c005f3e20",
+		"title": "",
+		"description": "",
+		"license": "",
+		"licenseURL": "",
+		"attribution": "",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "Steuern und Abgaben",
+		"textBottom": "Köln",
+		"value": "",
+		"unit": "€",
+		"changePerDay": "4991077",
+		"format": "int",
+		"background": "img/coin.svg",
+		"color": "#000000"
+	},
+	"back": {
+		"text": "Steuern und ähnliche Abgaben je Sekunde bezogen auf Gesamtergebnisplan 2015",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}

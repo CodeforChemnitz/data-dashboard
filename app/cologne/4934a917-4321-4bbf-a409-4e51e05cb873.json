@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Köln"
+	},
+	"portal": {
+		"url": "http://www.offenedaten-koeln.de/dataset/4934a917-4321-4bbf-a409-4e51e05cb873/resource/4934a917-4321-4bbf-a409-4e51e05cb873",
+		"title": "",
+		"description": "",
+		"license": "",
+		"licenseURL": "",
+		"attribution": "",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "erzeugte und entsorgte",
+		"textBottom": "Abfälle Stadt Köln",
+		"value": "",
+		"unit": "kg",
+		"changePerDay": "1524394",
+		"format": "int",
+		"background": "img/sun.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Abfälle erzeugter und entsorgter Abfälle je Sekunde Stadt Köln bezogen auf 2013",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}

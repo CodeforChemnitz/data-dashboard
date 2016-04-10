@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Köln"
+	},
+	"portal": {
+		"url": "http://www.offenedaten-koeln.de/dataset/4bab19f6-726b-4cc6-8284-f81ec45c61b2/resource/4bab19f6-726b-4cc6-8284-f81ec45c61b2",
+		"title": "",
+		"description": "",
+		"license": "",
+		"licenseURL": "",
+		"attribution": "",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "Köln",
+		"textBottom": "Denkmäler",
+		"value": "9544",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/house.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Vollständige Liste der Denkmäler in Köln mit dem Stand vom 22.05.2015",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}
