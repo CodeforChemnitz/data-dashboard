@@ -10,6 +10,13 @@ var config = config || {
 			group: 'city'
 		},
 		{
+			name: 'Wien',
+			country: 'Austria',
+			path: 'vienna',
+			badge: 'Released',
+			group: 'city'
+		},
+		{
 			name: 'Berlin',
 			country: 'Germany',
 			path: 'berlin',
