@@ -84,7 +84,9 @@ function fillBuildCardWithMetadata() {
 			if (isCKAN) {
 				fillCKANData(json, $('#inputMetaLink').val());
 			} else {
-				var data = $.parseJSON(json);
+				if (typeof data === 'string') {
+  				data = $.parseJSON(data);
+				}
 				fillRSSData(data);
 			}
 		})
@@ -168,7 +170,9 @@ function fillBuildCardByOldValues(url) {
 
 	$.ajax(url)
 		.done(function (json) {
-			var data = $.parseJSON(json);
+			if (typeof data === 'string') {
+  				data = $.parseJSON(data);
+			}
 			fillData(data);
 		})
 		.fail(function (jqXHR, textStatus) {
@@ -363,7 +367,9 @@ function buildCards(cardObj) {
 		url += '&file=' + encodeURIComponent(str);
 		$.ajax(url)
 			.done(function (json) {
-				var data = $.parseJSON(json);
+				if (typeof data === 'string') {
+  					data = $.parseJSON(data);
+				}
 				showMessage('success' === data.status);
 			})
 			.fail(function (jqXHR, textStatus) {
