@@ -5,7 +5,7 @@
 		"github": "https://github.com/codeforchemnitz/data-dashboard",
 		"showMenuCity": true,
 		"background": "chemnitz/background.jpg",
-		"background_source": "https://www.flickr.com/photos/motograf/939725742/in/photolist-2r3kHY-vEE5sG-bknsKo-bknoxd-byhhkR-bknkLW-byhf2p-zaNjWA-zq6bxS-zrjVq9-5bwnzu-bknoH7-wVBhAT-t7kQyc-zQPD3E-vEAQCm-zQPBsL-bknoTd-A9n99e-A9nciv-zQU8Sg-njkX1g-ppcxkz-to6JbM-sr8rgJ-2r3kAA-njmaZR-vUUjMC-tm3q9N-BBgjq7-7m3A7w-to796G-bjwgD2-poXKuJ-srFioz-7WJ3Ba-ahQfvB-bgRFFM-A8pCEi-t6Wu8t-t6Nx17-qkXf7X-njmbSn-vEARrL-toEKA8-v1m6yM-t6szAu-t7cZNR-srDCm9-toJkZZ"
+		"background_source": "https://www.flickr.com/photos/motograf/939725742"
 	},
 	"data": {
 		"ckan": "http://opendata.chemnitz.de/"
@@ -13,6 +13,7 @@
 	"cards": [
 		"chemnitz/code-for-chemnitz.json",
 		"chemnitz/help.json",
-		"chemnitz/wochenmaerkte.json"
+		"chemnitz/wochenmaerkte.json",
+		"chemnitz/background.json"
 	]
 }
