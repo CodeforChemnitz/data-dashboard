@@ -3,6 +3,13 @@
 var config = config || {
 	cities: [
 		{
+			name: 'Chemnitz',
+			country: 'Germany',
+			path: 'chemnitz',
+			badge: 'Alpha',
+			group: 'city'
+		},
+		{
 			name: 'Köln',
 			country: 'Germany',
 			path: 'cologne',

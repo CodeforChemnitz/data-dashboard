@@ -1,0 +1,34 @@
+{
+"location":{
+	"country":"Germany",
+	"city":"Chemnitz"
+},
+"portal":{
+	"url":"http://codeforchemnitz.de/",
+	"title":"Code for Germany, OK Lab Chemnitz",
+	"description":"Willkommen beim OK Lab Chemnitz! Wir arbeiten in verschiedenen Gruppen an Projekten rund um Open Data und Civic Tech. Wir kommen aus ganz verschiedenen Bereichen, entsprechend behandeln auch die Projekte an denen wir arbeiten ganz unterschiedliche Themen.",
+	"license":"",
+	"licenseURL":"",
+	"attribution":"",
+	"author":"",
+	"created":"2014-06",
+	"updated":"2016-04-14"
+},
+"front":{
+	"textTop":"",
+	"textBottom":"",
+	"value":"",
+	"unit":"",
+	"changePerDay":0,
+	"format":"",
+	"background":"img/codeforchemnitz.svg",
+	"color":"",
+	"cssClass":""
+},
+"back":{
+	"text":"Diese Grafik entstand bei Code for Berlin, der ehrenamtlichen Daten-Community.",
+	"background":"",
+	"color":"#000000",
+	"cssClass":""
+}
+}
