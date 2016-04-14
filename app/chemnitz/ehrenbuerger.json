@@ -1,0 +1,34 @@
+{
+"location":{
+	"country":"Germany",
+	"city":"Chemnitz"
+},
+"portal":{
+	"url":"http://www.chemnitz.de/chemnitz/de/die-stadt-chemnitz/stadtportrait/ehrenbuerger/index.html",
+	"title":"Ehrenbürger",
+	"description":"",
+	"license":"",
+	"licenseURL":"",
+	"attribution":"",
+	"author":"",
+	"created":"",
+	"updated":"2016-04-14"
+},
+"front":{
+	"textTop":"Chemnitz hat bereits",
+	"textBottom":"Ehrenbürger ernannt",
+	"value":"22",
+	"unit":"",
+	"changePerDay":0,
+	"format":"",
+	"background":"img/sun.svg",
+	"color":"#fff",
+	"cssClass":""
+},
+"back":{
+	"text":"Wir sind stolz auf unsere EhrenbürgerInnen, u.a. Katharina Witt und Stefan Heym",
+	"background":"",
+	"color":"#000000",
+	"cssClass":""
+}
+}

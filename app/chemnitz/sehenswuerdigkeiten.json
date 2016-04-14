@@ -1,0 +1,34 @@
+{
+"location":{
+	"country":"Germany",
+	"city":"Chemnitz"
+},
+"portal":{
+	"url":"http://www.chemnitz.de/chemnitz/de/die-stadt-chemnitz/stadtportrait/sehenswuerdigkeiten/sehenswertes/index.html",
+	"title":"Sehenswürdigkeiten",
+	"description":"",
+	"license":"",
+	"licenseURL":"",
+	"attribution":"",
+	"author":"",
+	"created":"",
+	"updated":"2016-04-14"
+},
+"front":{
+	"textTop":"Unsere",
+	"textBottom":"Sehenswürdigkeiten",
+	"value":"21",
+	"unit":"",
+	"changePerDay":0,
+	"format":"",
+	"background":"img/map.svg",
+	"color":"#000",
+	"cssClass":""
+},
+"back":{
+	"text":"Mehr zu Karl-Marx-Monument, Roter Turm, Schloßkirche, Villa Esche und Versteinerter Wald ..",
+	"background":"",
+	"color":"#000000",
+	"cssClass":""
+}
+}
