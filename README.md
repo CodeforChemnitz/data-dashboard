@@ -1,6 +1,6 @@
 # Datenwaben
 
-Show an #OpenData data dashboard of various cities. See the result of the [visualization](http://codeforcologne.github.io/data-dashboard/app/index.html).
+Show an #OpenData data dashboard of various cities. See the result of the [visualization](http://status.codeforchemnitz.de/).
 
 ![alt text](https://raw.githubusercontent.com/codeforcologne/data-dashboard/gh-pages/doc/previewCologne.png "Cologne")
 
