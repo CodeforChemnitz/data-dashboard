@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Germany",
+		"city": "Chemnitz"
+	},
+	"portal": {
+		"url": "http://chemnitz.de/chemnitz/de/die-stadt-chemnitz/stadtportrait/zahlen-fakten/zahlenfakten_verkehr.html",
+		"title": "",
+		"description": "",
+		"license": "",
+		"licenseURL": "",
+		"attribution": "",
+		"author": "",
+		"created": "",
+		"updated": ""
+	},
+	"front": {
+		"textTop": "Juli 2015",
+		"textBottom": "Übernachtungen",
+		"value": "38.840",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/family.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Verkehr und Fremdenverkehr",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}
